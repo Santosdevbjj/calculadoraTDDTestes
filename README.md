@@ -10,9 +10,11 @@
 ---
 
 
-calculadoraTDDTestes.
-Calculadora com TDD e Testes Unitários em .NET 8
-Este projeto é uma demonstração prática do Desenvolvimento Orientado a Testes (TDD), utilizando a plataforma .NET 8 e o framework xUnit para a criação de testes unitários. O objetivo principal foi desenvolver uma calculadora com funcionalidades básicas e um histórico de operações, garantindo a robustez do código através da escrita de testes antes da implementação da funcionalidade.
+**Calculadora com TDD e Testes Unitários em .NET 8**
+
+Este projeto é uma demonstração prática do Desenvolvimento Orientado a Testes (TDD), utilizando a plataforma .NET 8 e o framework xUnit para a criação de testes unitários.
+
+O objetivo principal foi desenvolver uma calculadora com funcionalidades básicas e um histórico de operações, garantindo a robustez do código através da escrita de testes antes da implementação da funcionalidade.
 
 🚀 Tecnologias Utilizadas
  * Linguagem: C#
