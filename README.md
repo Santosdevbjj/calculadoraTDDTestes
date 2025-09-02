@@ -51,18 +51,10 @@ O projeto é uma solução em .NET 8 com dois projetos principais:
    
 Essa separação garante que o código de teste e o código de produção estejam em pacotes distintos, facilitando a organização e o gerenciamento.
 
-/calculadoraTDDTestes
-|
-├── Calculadora/
-|   ├── Calculadora.csproj
-|   └── Calculadora.cs
-|
-├── Calculadora.Testes/
-|   ├── Calculadora.Testes.csproj
-|   └── CalculadoraTests.cs
-|
-├── Calculadora.sln
-└── README.md
+
+<img width="777" height="610" alt="Screenshot_20250902-203506" src="https://github.com/user-attachments/assets/3b964525-6046-4063-a207-414a186950e1" />
+
+
 
 ▶️ Como Executar o Projeto
 Para rodar o projeto, você precisa ter o SDK do .NET 8 instalado.
