@@ -64,12 +64,12 @@ Essa separação garante que o código de teste e o código de produção esteja
 Para rodar o projeto, você precisa ter o SDK do .NET 8 instalado.
 
  * **Clone o repositório:**
-   git clone https://github.com/Santosdevbjj/calculadoraTDDTestes.git
+   **git clone** https://github.com/Santosdevbjj/calculadoraTDDTestes.git
 cd calculadoraTDDTestes
 
  * **Execute os testes unitários:**
    No terminal, a partir do diretório raiz do projeto, execute o comando:
-   dotnet test
+   **dotnet test**
 
    Isso compilará a solução e executará todos os testes definidos, confirmando que todas as regras de negócio estão sendo seguidas corretamente.
 
