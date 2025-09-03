@@ -72,6 +72,16 @@ cd calculadoraTDDTestes
    dotnet test
 
    Isso compilará a solução e executará todos os testes definidos, confirmando que todas as regras de negócio estão sendo seguidas corretamente.
+
+   ---
+
+
+
+
+
+
+   ---
+   
    
 📝 **Contribuição**
 Sinta-se à vontade para contribuir com este projeto! Se encontrar bugs ou tiver sugestões de melhoria, abra uma issue ou envie um pull request.
